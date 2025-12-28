@@ -4,7 +4,24 @@ Ce projet regroupe plusieurs travaux pratiques réalisés avec **Vue.js** dans l
 
 ---
 
-##  Blog App
+##TP 03 Application E-commerce
+Application e-commerce permettant l’affichage de produits .
+
+### Aperçu
+![Ecommerce 1](img/ecom1.png)
+![Ecommerce 2](img/ecom2.png)
+![Ecommerce 3](img/ecom3.png)
+---
+
+
+##  TP 04 – Gestion des tâches
+Application permettant la gestion des tâches.
+
+### Aperçu
+![TP4 Tâches](img/tp4tach.png)
+---
+
+## TP 05 Blog App
 Application de blog permettant l’affichage d’articles avec une interface simple et moderne.
 
 ### Aperçu
@@ -13,25 +30,7 @@ Application de blog permettant l’affichage d’articles avec une interface sim
 
 ---
 
-## Application E-commerce
-Application e-commerce permettant l’affichage de produits .
-
-### Aperçu
-![Ecommerce 1](img/ecom1.png)
-![Ecommerce 2](img/ecom2.png)
-![Ecommerce 3](img/ecom3.png)
-
----
-
-##  TP4 – Gestion des tâches
-Application permettant la gestion des tâches.
-
-### Aperçu
-![TP4 Tâches](img/tp4tach.png)
-
-
-
-# TP6 – App de Voting sur les Événements
+# TP 06 – App de Voting sur les Événements
 
 Voici quelques captures d'écran de l'application :
 
