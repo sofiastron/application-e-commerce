@@ -50,7 +50,7 @@ Vous pouvez accéder à l'application ici : [Events App](https://ensa-voting.web
 # TP 07
 ## Lien vers l'application
 
-Vous pouvez accéder à l'application ici : [Events App](https://forum-communautaire.web.app)
+Vous pouvez accéder à l'application ici : [forum app](https://forum-communautaire.web.app)
 ##  Réalisé par
 **Sofia Bouhouch**  
 Génie Informatique & Intelligence Artificielle
