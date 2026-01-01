@@ -1,5 +1,19 @@
-# Vue 3 + Vite
+## Lien vers l'application
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vous pouvez accéder à l'application ici : [Events App](https://ensa-voting.web.app)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Fonctionnalités
+- Authentification utilisateur (Inscription / Connexion)
+- Affichage des événements avec image, titre, description et date
+- Système de vote "Yes" / "No"
+- Un utilisateur ne peut voter qu’une seule fois par événement
+- Mise à jour des compteurs de votes en temps réel
+- Responsive design (desktop, tablette, mobile)
+
+## Technologies utilisées
+
+- Vue.js 3
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Hosting
+- HTML / CSS / JavaScript
